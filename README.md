@@ -2,10 +2,8 @@
 
 **I turn messy business data into decisions that lift revenue, reduce churn, and speed up time-to-insight.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-uddeishya.com-000?logo=vercel)](https://uddeishya.com/)
-[![Resume](https://img.shields.io/badge/Resume-GitHub-181717?logo=github)](https://github.com/UDDEISHYA/Resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/uddeishya-kumar-130283253/)
-[![Email](https://img.shields.io/badge/Email-uddeishyakumar2022%40vitbhopal.ac.in-D14836?logo=gmail)](mailto:uddeishyakumar2022@vitbhopal.ac.in)
+[![Email](https://img.shields.io/badge/Email-pkumar31081969@gmail.com-D14836?logo=gmail)](mailto:pkumar31081969@gmail.com)
 
 ---
 
