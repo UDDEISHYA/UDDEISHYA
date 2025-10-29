@@ -2,12 +2,21 @@
 
 **I turn messy business data into decisions that lift revenue, reduce churn, and speed up time-to-insight.**
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/uddeishya-kumar-130283253/)
 [![Email](https://img.shields.io/badge/Email-pkumar31081969@gmail.com-D14836?logo=gmail)](mailto:pkumar31081969@gmail.com)
 
 ---
 
 ### 🎖 Certifications & Recognition
+<!--
+![ALT: brief description](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif)
+
+<p align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="ALT: brief description" width="300" />
+</p>
+-->
+
 [![AZ-900](https://img.shields.io/badge/Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/UDDEISHYAKUMAR-7788/AAD7B3A89E38DEE8?sharingId=BD419154490FAB6D)
 ![HBS Online – Business Analytics (Honors)](https://img.shields.io/badge/HBS%20Online-Business%20Analytics%20(Honors)-A51C30)
 ![HBS Online – Economics for Managers (Honors)](https://img.shields.io/badge/HBS%20Online-Economics%20for%20Managers%20(Honors)-A51C30)
@@ -41,7 +50,7 @@ Actionable KPIs for booking trends, revenue performance, hotspots, and trip effi
 **Do Sakhi — Generative AI for Girls’ Health & Safety**
 <br>
 <a href="https://www.youtube.com/watch?v=r8S-AXKtIPY">
-  <img alt="Do Sakhi YouTube thumbnail" src="https://img.youtube.com/vi/r8S-AXKtIPY/hqdefault.jpg" width="480" />
+ <!-- <img alt="Do Sakhi YouTube thumbnail" src="https://img.youtube.com/vi/r8S-AXKtIPY/hqdefault.jpg" width="480" /> -->
 </a>
 <br>
 Localized stories, rights education, scheme discovery & real-time support; recognized by international communities.  
@@ -64,29 +73,30 @@ Localized stories, rights education, scheme discovery & real-time support; recog
 
 ---
 
-### 💼 Experience (flash view)
+### 💼 Experience 
 - **Caterpillar India — ML Intern** — **73%** faster insights (report analyzer), **+53%** trust (RAG with citations), **-89%** research time; **+9%** forecasting accuracy.  
 - **IEEE VIT Bhopal — Student Chair** — Grew branch reach ~**5x**; led 9+ national events.
 
 ---
-
+<!--
 ### ✍️ Writing & Talks
 [![Medium](https://img.shields.io/badge/Article-Kubernetes%20Security-12100E?logo=medium&logoColor=white)](https://medium.com/@uddeshya350q/private-kubernetes-clusters-a-false-sense-of-security-f9672f6fbd19)
 [![Book](https://img.shields.io/badge/Book-Getting%20Ahead%20With%20Prompts-ff9900)](https://www.amazon.in/GETTING-AHEAD-PROMPTS-Insiders-Securing-ebook/dp/B0CF8W77FY)
-
+-->
 ---
 
 ### 📊 GitHub Activity
 ![Uddeishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDDEISHYA&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UDDEISHYA&layout=compact)
 
-
+<!--
 🟧  LeetCode card (enable ONLY if accurate; replace USERNAME)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME?theme=light&ext=heatmap)
 🟧  “50 Days of LeetCode” — add an image/screenshot of your streak here if you’ve actually done it.
-
+-->
 
 ---
-
+<!--
 ### 📬 Contact
 **Email:** uddeishyakumar2022@vitbhopal.ac.in · **LinkedIn:** /in/uddeishya-kumar-130283253/ · **Portfolio:** uddeishya.com
+-->
