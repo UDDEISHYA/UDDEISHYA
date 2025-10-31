@@ -1,6 +1,6 @@
 # Uddeishya Kumar — Data Analyst · Data Scientist 
 
-**I turn messy business data into decisions that lift revenue, reduce churn, and speed up time-to-insight.**
+**I enjoy turning messy business data into decisions that lift revenue, reduce churn, and speed up time-to-insight.**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/uddeishya-kumar-130283253/)
