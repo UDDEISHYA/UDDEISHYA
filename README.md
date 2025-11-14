@@ -27,16 +27,13 @@
 [![Book](https://img.shields.io/badge/Book-Getting%20Ahead%20With%20Prompts-ff9900)](https://www.amazon.in/GETTING-AHEAD-PROMPTS-Insiders-Securing-ebook/dp/B0CF8W77FY)
 
 ---
-![ALT: brief description](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif)
-
----
 
 ### 🔥 Featured Work 
 
 **UBER Trip Analysis — Power BI**
 <br>
 <a href="https://github.com/UDDEISHYA/UBER_Trip_Analysis">
-  <img alt="Uber Power BI Dashboard" src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&labelColor=000" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&labelColor=000" />
 </a>
 <br>
 Actionable KPIs for booking trends, revenue performance, hotspots, and trip efficiency. _Tech:_ Power BI, DAX, Power Query.  
