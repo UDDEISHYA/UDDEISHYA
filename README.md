@@ -75,9 +75,8 @@ Localized stories, rights education, scheme discovery & real-time support; recog
 ---
 
 ### Badges
-| <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="ALT: brief description" width="200" /> |
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="ALT: brief description" width="200" /> |
-|---|
+| <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="ALT: brief description" width="200" /> | <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="ALT: brief description" width="200" /> |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
 
 
 <!--
