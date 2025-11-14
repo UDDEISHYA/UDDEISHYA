@@ -40,6 +40,9 @@ This Power BI solution ingests Uber trip data to deliver a comprehensive analyti
 👉 Repo: **UBER_Trip_Analysis** → https://github.com/UDDEISHYA/UBER_Trip_Analysis
 
 ### **Do Sakhi - Turning Questions into Confidence – Because Every Girl Deserves A Sakhi**
+![Static Badge](https://img.shields.io/badge/LLM-8A2BE2)
+![Static Badge](https://img.shields.io/badge/RAG-Red)
+
 
 **"Do Sakhi,"** is a digital empowerment application explicitly designed to mitigate gender inequalities by enhancing socio-legal awareness and health empowerment
 among young girls and women. The invention features a culturally adaptive mobile interface embodied by an animated avatar **("Sakhi")**, who delivers personalized storytelling and real-time emotional engagement, thereby cultivating a trusted friendship bond. Hence, named “Do Sakhi” (two girl best-friends), leveraging this friendship connection, "Do Sakhi" addressessensitive and socially stigmatized topics, such as feminine hygiene and menstrual health, through comfortable, stigma-free interactions.
