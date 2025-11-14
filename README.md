@@ -36,16 +36,17 @@
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&labelColor=000" />
 </a>
 <br>
-Actionable KPIs for booking trends, revenue performance, hotspots, and trip efficiency. _Tech:_ Power BI, DAX, Power Query.  
+This Power BI solution ingests Uber trip data to deliver a comprehensive analytics dashboard. Stakeholders gain actionable insights into booking trends, revenue performance, trip efficiency, and spatial-temporal patterns.  
 👉 Repo: **UBER_Trip_Analysis** → https://github.com/UDDEISHYA/UBER_Trip_Analysis
 
 **Do Sakhi — Generative AI for Girls’ Health & Safety**
 <br>
 <a href="https://www.youtube.com/watch?v=r8S-AXKtIPY">
+**"Do Sakhi,"** is a digital empowerment application explicitly designedto mitigate gender inequalities by enhancing socio-legal awareness and health empowerment
+among young girls and women. The invention features a culturally adaptive mobile interface embodied by an animated avatar **("Sakhi")**, who delivers personalized storytelling and real-time emotional engagement, thereby cultivating a trusted friendship bond. Hence, named “Do Sakhi” (two girl best-friends), leveraging this friendship connection, "Do Sakhi" addressessensitive and socially stigmatized topics, such as feminine hygiene and menstrual health, through comfortable, stigma-free interactions.
  <!-- <img alt="Do Sakhi YouTube thumbnail" src="https://img.youtube.com/vi/r8S-AXKtIPY/hqdefault.jpg" width="480" /> -->
 </a>
-<br>
-Localized stories, rights education, scheme discovery & real-time support; recognized by international communities.  
+<br> 
 👉 Repo: **Do_Sakhi** → https://github.com/UDDEISHYA/Do_Sakhi · 🎥 Intro video above
 
 ---
