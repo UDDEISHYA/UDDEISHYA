@@ -1,4 +1,4 @@
-# Uddeishya Kumar — Data Analyst · Data Scientist 
+# Uddeishya Kumar - Data Analyst · Data Scientist 
 
 **I enjoy turning messy business data into decisions that lift revenue, reduce churn, and speed up time-to-insight.**
 
@@ -35,7 +35,8 @@
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&labelColor=000" />
 </a>
 <br>
-This Power BI solution ingests Uber trip data to deliver a comprehensive analytics dashboard. Stakeholders gain actionable insights into booking trends, revenue performance, trip efficiency, and spatial-temporal patterns. 
+
+> This Power BI solution ingests Uber trip data to deliver a comprehensive analytics dashboard. Stakeholders gain actionable insights into booking trends, revenue performance, trip efficiency, and spatial-temporal patterns. 
 
 👉 Repo: **UBER_Trip_Analysis** → https://github.com/UDDEISHYA/UBER_Trip_Analysis
 
@@ -44,7 +45,7 @@ This Power BI solution ingests Uber trip data to deliver a comprehensive analyti
 ![Static Badge](https://img.shields.io/badge/RAG-Red)
 
 
-**"Do Sakhi,"** is a digital empowerment application explicitly designed to mitigate gender inequalities by enhancing socio-legal awareness and health empowerment
+> **"Do Sakhi,"** is a digital empowerment application explicitly designed to mitigate gender inequalities by enhancing socio-legal awareness and health empowerment
 among young girls and women. The invention features a culturally adaptive mobile interface embodied by an animated avatar **("Sakhi")**, who delivers personalized storytelling and real-time emotional engagement, thereby cultivating a trusted friendship bond. Hence, named “Do Sakhi” (two girl best-friends), leveraging this friendship connection, "Do Sakhi" addressessensitive and socially stigmatized topics, such as feminine hygiene and menstrual health, through comfortable, stigma-free interactions.
 
 👉 Repo: **Do_Sakhi** → https://github.com/UDDEISHYA/Do_Sakhi 
@@ -67,8 +68,8 @@ among young girls and women. The invention features a culturally adaptive mobile
 ---
 
 ### 💼 Experience 
-- **Caterpillar India — ML Intern** — **73%** faster insights (report analyzer), **+53%** trust (RAG with citations), **-89%** research time; **+9%** forecasting accuracy.  
-- **IEEE VIT Bhopal — Student Chair** — Grew branch reach ~**5x**; led 9+ national events.
+- **Caterpillar India - ML Intern** - **73%** faster insights (report analyzer), **+53%** trust (RAG with citations), **-89%** research time; **+9%** forecasting accuracy.  
+- **IEEE VIT Bhopal -  Student Chair** - Grew branch reach ~**5x**; led 9+ national events.
 
 ---
 
@@ -83,11 +84,11 @@ among young girls and women. The invention features a culturally adaptive mobile
 [![Book](https://img.shields.io/badge/Book-Getting%20Ahead%20With%20Prompts-ff9900)](https://www.amazon.in/GETTING-AHEAD-PROMPTS-Insiders-Securing-ebook/dp/B0CF8W77FY)
 -->
 ---
-
+<!--
 ### 📊 GitHub Activity
 ![Uddeishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDDEISHYA&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UDDEISHYA&layout=compact)
-
+-->
 <!--
 🟧  LeetCode card (enable ONLY if accurate; replace USERNAME)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME?theme=light&ext=heatmap)
