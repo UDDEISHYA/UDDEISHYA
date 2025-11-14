@@ -29,16 +29,6 @@
 ---
 ![ALT: brief description](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif)
 
-<p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="ALT: brief description" width="300" />
-</p>
-
-### 📈 KPI Impact 
-- **73% faster** financial insights via custom GenAI long-report analyzer (Caterpillar).
-- **+53%** user trust with RAG + citations across thousands of internal docs.
-- **-89%** research time by optimizing RAG pipeline & multi-format outputs.
-- **+9%** resource-utilization forecasting accuracy through targeted inventory analysis.
-
 ---
 
 ### 🔥 Featured Work 
@@ -83,6 +73,15 @@ Localized stories, rights education, scheme discovery & real-time support; recog
 - **IEEE VIT Bhopal — Student Chair** — Grew branch reach ~**5x**; led 9+ national events.
 
 ---
+
+### Badges
+<p align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="ALT: brief description" width="200" />
+</p>
+<p align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="ALT: brief description" width="200" />
+</p>
+
 <!--
 ### ✍️ Writing & Talks
 [![Medium](https://img.shields.io/badge/Article-Kubernetes%20Security-12100E?logo=medium&logoColor=white)](https://medium.com/@uddeshya350q/private-kubernetes-clusters-a-false-sense-of-security-f9672f6fbd19)
