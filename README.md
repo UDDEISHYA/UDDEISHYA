@@ -58,20 +58,24 @@ among young girls and women. The invention features a culturally adaptive mobile
 |---|---|---|---|---|
 | <img src="https://logos-world.net/wp-content/uploads/2024/01/Databricks-Emblem.png" alt="Databricks" width="210"> | <img src="https://thinkadnet.com/wp-content/uploads/2020/07/Azure-White.png" alt="Microsoft Azure" width="210"> | <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png" alt="AWS" width="210"> | <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="Tableau" width="210"> |  |
 
+<!--
 ---
+
 
 ### 🧪 How I Work
 - Design→**deliver**: problem framing, KPI definition, data modeling, analysis/modeling, actionable narrative.
 - **Decision-first** dashboards (exec cadence), clean DAX/SQL, and clear trade-offs.
 - GenAI for speed-to-insight: RAG with citations; summarize, tabularize, and trace sources.
 
----
+--- 
+-->
 
+<!--
 ### 💼 Experience 
 - **Caterpillar India - ML Intern** - **73%** faster insights (report analyzer), **+53%** trust (RAG with citations), **-89%** research time; **+9%** forecasting accuracy.  
 - **IEEE VIT Bhopal -  Student Chair** - Grew branch reach ~**5x**; led 9+ national events.
+-->
 
----
 
 ### Badges
 | <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="ALT: brief description" width="200" /> | <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="ALT: brief description" width="200" /> |
@@ -82,8 +86,10 @@ among young girls and women. The invention features a culturally adaptive mobile
 ### ✍️ Writing & Talks
 [![Medium](https://img.shields.io/badge/Article-Kubernetes%20Security-12100E?logo=medium&logoColor=white)](https://medium.com/@uddeshya350q/private-kubernetes-clusters-a-false-sense-of-security-f9672f6fbd19)
 [![Book](https://img.shields.io/badge/Book-Getting%20Ahead%20With%20Prompts-ff9900)](https://www.amazon.in/GETTING-AHEAD-PROMPTS-Insiders-Securing-ebook/dp/B0CF8W77FY)
--->
+
 ---
+-->
+
 <!--
 ### 📊 GitHub Activity
 ![Uddeishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDDEISHYA&show_icons=true&theme=default)
@@ -93,9 +99,10 @@ among young girls and women. The invention features a culturally adaptive mobile
 🟧  LeetCode card (enable ONLY if accurate; replace USERNAME)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME?theme=light&ext=heatmap)
 🟧  “50 Days of LeetCode” — add an image/screenshot of your streak here if you’ve actually done it.
--->
 
 ---
+-->
+
 <!--
 ### 📬 Contact
 **Email:** uddeishyakumar2022@vitbhopal.ac.in · **LinkedIn:** /in/uddeishya-kumar-130283253/ · **Portfolio:** uddeishya.com
