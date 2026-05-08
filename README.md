@@ -17,7 +17,10 @@
 </p>
 -->
 
-[![AZ-900](https://img.shields.io/badge/Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/UDDEISHYAKUMAR-7788/AAD7B3A89E38DEE8?sharingId=BD419154490FAB6D)
+
+[![CLF-C02](https://img.shields.io/badge/Certified-AWS%20Cloud%20Practitioner%20(CLF--C02)-red?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/97b2ab27-f86a-4152-addb-62871879f9c4/public_url)
+[![DP-900](https://img.shields.io/badge/Certified-Azure%20Data%20Fundamentals%20(DP--900)-32CD32?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/uddeishyakumar-7788/credentials/154ea960af8dcee7)
+[![AZ-900](https://img.shields.io/badge/Certified-Azure%20Fundamentals%20(AZ--900)-purple?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/UDDEISHYAKUMAR-7788/AAD7B3A89E38DEE8?sharingId=BD419154490FAB6D)
 ![HBS Online – Business Analytics (Honors)](https://img.shields.io/badge/HBS%20Online-Business%20Analytics%20(Honors)-A51C30)
 ![HBS Online – Economics for Managers (Honors)](https://img.shields.io/badge/HBS%20Online-Economics%20for%20Managers%20(Honors)-A51C30)
 ![HBS Online – Financial Accounting (Honors)](https://img.shields.io/badge/HBS%20Online-Financial%20Accounting%20(Honors)-A51C30)
@@ -27,7 +30,7 @@
 [![Book](https://img.shields.io/badge/Book-Getting%20Ahead%20With%20Prompts-ff9900)](https://www.amazon.in/GETTING-AHEAD-PROMPTS-Insiders-Securing-ebook/dp/B0CF8W77FY)
 
 ---
-
+<!--
 ### 🔥 Featured Work 
 
 ### **UBER Trip Analysis - Power BI**
@@ -50,7 +53,7 @@ among young girls and women. The invention features a culturally adaptive mobile
 
 👉 Repo: **Do_Sakhi** → https://github.com/UDDEISHYA/Do_Sakhi 
 
----
+--->
 
 ### 🧰 Stack 
 
@@ -76,11 +79,11 @@ among young girls and women. The invention features a culturally adaptive mobile
 - **IEEE VIT Bhopal -  Student Chair** - Grew branch reach ~**5x**; led 9+ national events.
 -->
 
-
+<!---
 ### Badges
 | <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fmb3dldXQ4cXltZWplNXNnazk3ZzEydng3OTd0MmY5N3Nyc2ExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="ALT: brief description" width="200" /> | <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="ALT: brief description" width="200" /> |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-
+--->
 
 <!--
 ### ✍️ Writing & Talks
