@@ -1,4 +1,4 @@
-# Uddeishya Kumar - Data Analyst · Data Scientist 
+# Uddeishya Kumar - Data Scientist 
 
 **I enjoy turning messy business data into decisions that lift revenue, reduce churn, and speed up time-to-insight.**
 
